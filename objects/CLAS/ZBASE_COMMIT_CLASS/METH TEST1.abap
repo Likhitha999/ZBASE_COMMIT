@@ -6,4 +6,5 @@
     write:'seq-check-4'.
     write:'seq-check-5'.
      write:'seq-check-6'.
+     write:'This is a test'.
   endmethod.
