@@ -5,4 +5,5 @@
     write:'seq-check-3'.
     write:'seq-check-4'.
     write:'seq-check-5'.
+     write:'seq-check-6'.
   endmethod.
