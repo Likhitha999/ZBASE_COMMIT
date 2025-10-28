@@ -2,4 +2,5 @@
     write:'test1'.
     Write:'Seq check - 1'.
     write:'seq-check-2'.
+    write:'seq-check-3'.
   endmethod.
