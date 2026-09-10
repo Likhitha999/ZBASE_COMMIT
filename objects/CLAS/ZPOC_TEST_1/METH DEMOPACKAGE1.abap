@@ -1,0 +1,5 @@
+  METHOD DEMOPACKAGE1.
+
+write:'TR9'.
+write:'TR16'.
+  ENDMETHOD.
